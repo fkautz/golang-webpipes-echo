@@ -11,7 +11,7 @@ Import Webpipes
 ---------------
 ```
   import(
-    "webpipes"
+    "github.com/fkautz/golang-webpipes"
   )
 ```
 
