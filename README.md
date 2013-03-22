@@ -1,7 +1,11 @@
 Simple Go Webpipes Implementation
 =================================
 
-See src/webpipes/wpecho/webpipes_echo.go for the full example
+See src/wpecho/webpipes_echo.go for the full example
+
+Download the code
+-----------------
+go get github.com/fkautz/golang-webpipes
 
 Import Webpipes
 ---------------
